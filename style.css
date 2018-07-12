@@ -1,0 +1,78 @@
+.first {
+  color: purple;
+}
+
+#cent {
+  margin: 20px 100px;
+}
+
+.biz {
+  background-color: #90D4CF;
+  color: black;
+  float:left;
+  margin-left: 10px;
+  width: 50%;
+  height: 190px;
+  padding: 10px;
+  overflow: auto;
+}
+
+.mail {
+  background-color: #D49095;
+  color: blue;
+  float:left;
+  margin-left: 55px;
+  width: 14%;
+  height: 190px;
+  padding: 10px 10px;
+  overflow: auto;
+}
+
+.map {
+  background-color: #B7D490;
+  margin-left: 950px;
+  width: 20%;
+  height: 190px;
+  color: purple;
+  padding: 10px;
+  overflow: auto;
+}
+
+.rightcolumn {
+    float: right;
+    width: 25%;
+    margin-top: 30px;
+    background-color: #f1f1f1;
+    padding-left: 20px;
+}
+
+#palm {
+  border: 1px solid rgb(198, 170, 224);
+  height: 800px;
+  margin-top: 30px;
+  margin-right: 300px;
+  overflow: auto;
+}
+
+
+h1 {
+  color: purple;
+  font-family: verdana;
+  text-align: center;
+  border-bottom: 4px solid rgb(198, 170, 224);
+  margin: 25px
+}
+
+h2 {
+  color: purple;
+}
+
+body {
+  font-family: verdana;
+  color: rgb(42, 162, 150);
+  margin: 50px;
+}
+
+img{
+  margin: 5px 25px;
+}
